@@ -1,3 +1,23 @@
+# 📲 Try the App (APK Installation)
+If you just want to test the GS1-128 scanning logic on your device, you can download the pre-compiled APK.
+### (App doesnt work for IOS)
+1. Enable "Unknown Sources"
+Because this is a custom build and not on the Play Store, Android will block the installation by default.
+
+
+Go to Settings > Apps > Special app access.
+
+Select Install unknown apps.
+
+Toggle "Allow from this source" for your Browser or File Manager.
+
+2. Install & Scan
+Open the downloaded .apk file.
+
+Grant Camera Permissions when prompted.
+
+Point the scanner at a GS1-128 weight label (AI 310n).
+
 # ⚖️ GS1-128 Custom Weight Scanner
  A custom made Android implementation for scanning and parsing GS1-128 barcodes, specifically optimized for weight-based logistics. It extracts weight data from GS1 strings.
 
@@ -46,6 +66,7 @@ Clone the repository
 Open in Android Studio.
 
 Sync Gradle and run on a physical device (camera required).
+
 
 # 🤝 Contributing
 Found a bug? Feel free to open an issue or submit a pull request!
