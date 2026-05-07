@@ -69,4 +69,5 @@ Sync Gradle and run on a physical device (camera required).
 
 
 # 🤝 Contributing
-Found a bug? Feel free to open an issue or submit a pull request!
+Found a bug? Feel free to open an issue or submit a pull request! 
+Else this is an open source repository and a concept project, free to edit however you want!
